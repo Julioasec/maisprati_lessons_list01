@@ -11,7 +11,7 @@ if(grade >= 7){
     return console.log("Aprovado!");
     
 }else if(grade <= 6 && grade >= 4){
-  return  console.log("Recuperação!");
+  return console.log("Recuperação!");
     
 }
 
