@@ -4,7 +4,7 @@ let sum = 0;
 
 
 for(let i = 0; i < 5; i++){
-    sum += Number(prompt(`Informe o número ${i+1}`))
+    sum += Number(prompt(`Informe o número ${i+1}: `))
 
 }
 

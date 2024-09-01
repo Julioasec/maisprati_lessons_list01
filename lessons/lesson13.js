@@ -5,9 +5,7 @@ let sum = 0;
 let number = 0
 do {
     number = Number(prompt("Insira um número ou 0 para encerrar: ")) 
-    sum += number
-    console.log(sum);
-     
+    sum += number 
     count++
 } while (number != 0);
 
